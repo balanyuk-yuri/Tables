@@ -1,0 +1,4 @@
+   ID	A.txt.value	B.txt.value
+    2    C    A
+    2    B    A
+    3    D    E
